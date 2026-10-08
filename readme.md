@@ -7,11 +7,8 @@ The project uses **Python, Scikit-learn, XGBoost, and Streamlit**.
 
 ## 📸 Application Screenshot
 
-Add your screenshot here:
+(screenshots/example1.png)
 
-![Stroke Risk Prediction App](screenshots/example1.png)
-
-> Replace `screenshots/streamlit-app.png` with your actual screenshot path if you use a different filename.
 
 ## 🚀 Features
 
