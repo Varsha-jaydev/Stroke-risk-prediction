@@ -1,11 +1,8 @@
-````markdown
-# 🧠 Stroke Risk Prediction
+# 🧠 Stroke Risk Prediction 
 
-A simple machine learning project that predicts the probability of stroke based on patient health and demographic information.
+A machine learning project that predicts the probability of stroke based on patient health and demographic information. Built with **Python, Scikit-learn, XGBoost, and Streamlit**. 
 
-The project uses **Python, Scikit-learn, XGBoost, and Streamlit**.
-
-## 📸 Application Screenshot
+## 📸 Application Screenshot 
 
 ![Stroke Risk Prediction](screenshots/example1.png)
 
